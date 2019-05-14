@@ -31,14 +31,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+The DOM or Document Object Model is what your browser creates when it parses HTML code. It is an abstraction of HTML code.
 
 2. What is an event?
+An event is an action performed within the browser that can be hooked on to in order to fire off some code.
 
 3. What is an event listener?
+An even listener is the method which we can use to wait for a specific event to happen in order to fire off some code.
 
 4. Why would we convert a NodeList into an Array?
+Because a NodeList is an array-like object but not actually a typical array data structure, which means that a NodeList can't be operated on using many array methods that are available to developers, with the exception of .forEach.
 
 5. What is a component?
+A component is a part of a larger whole. Within the paradigm of programming, it is the method by which we can create encapsulation with the intention of reusability.
 
 ### Git Set up
 
